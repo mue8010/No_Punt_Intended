@@ -129,14 +129,13 @@ Payouts are distributed within **seven days** of the championship concluding.
  
 ## 8. Trades
  
-- **Deadline: Week 11**, as configured in Sleeper. The platform's displayed deadline timestamp is authoritative — do not rely on this document for the exact minute.
-- This is a *submission* deadline. A trade submitted before it processes normally after its review period, even if that processing falls after the deadline. Nothing may be submitted after it.
-- **Do not cut it close.** Combined with the 2-day review period, a trade submitted in the final hours may not resolve the way either party expects.
+- **Deadline: Week 11**, as configured in Sleeper. The platform's displayed deadline is authoritative.
+- This is a *submission* deadline. A trade submitted before it will process normally after its review period, if that processing falls after the deadline.
+- **Do not cut it close:** Combined with the 2-day review period, a trade submitted in the final hours may not resolve the way either party expects.
 - **Review period:** **2 days**, then the trade processes automatically.
-- **Lineup warning:** Players in a pending trade are frozen and cannot be started. A trade submitted Friday does not process until Sunday, potentially mid-games. **Submit by Wednesday if you want the players usable that week.**
+- **Lineup warning:** Players in a pending trade are frozen and cannot be started. A trade submitted Friday does not process until Sunday, potentially mid-game.
+  **Submit by Wednesday if you want the players usable that week.**
 - **Veto policy: There are no vetoes.** Trades are reversed only for collusion.
-- **Collusion** is defined as two managers coordinating to advantage one team at the expense of the league — not a trade that others consider lopsided. **Bad trades are permitted. Bad faith is not.**
-- The commissioner **recuses** from any collusion ruling involving his own team; the decision passes to a majority vote of uninvolved managers.
 ---
  
 ## 9. Injured Reserve
@@ -155,13 +154,11 @@ Payouts are distributed within **seven days** of the championship concluding.
 | NA (not on an NFL roster) | ❌ No |
 | DNR / Holdout / Opt-out | ❌ No |
  
-Blocking **NA** is the important one — allowing it would let managers stash unsigned free agents and practice-squad fliers indefinitely, which converts IR into extra bench space rather than injury relief.
+Blocking **NA** is the important one: Allowing it would let managers stash unsigned free agents and practice-squad fliers indefinitely, which converts IR into extra bench space rather than injury relief.
  
-Allowing **Out** is deliberate. It gives attentive managers some weekend roster flexibility. In a 12-team league that would be a meaningful edge; at 10 teams the waiver wire is deep enough that the ceiling on it is low.
+Allowing **Out** is deliberate. It gives attentive managers some weekend roster flexibility. In a 12-team league, that would be a meaningful edge; at 10 teams, the waiver wire is deep enough that the ceiling on it is low.
  
 **Activation rule:** When an IR player's designation clears, the manager has **48 hours** to activate him to an active roster spot or drop a player. Failure to comply results in the commissioner dropping the lowest-projected bench player.
- 
-Placing an ineligible player on IR is a rules violation, not a loophole.
  
 ---
  
@@ -171,18 +168,16 @@ Placing an ineligible player on IR is a rules violation, not a loophole.
 - **Playoff field:** 6 teams
 - **Bracket:** Weeks 15, 16, 17
 - **Byes:** Seeds 1 and 2 receive a first-round bye in Week 15
-- **Week 18 is not used** — NFL teams rest starters and the results are meaningless.
-### Seeding tiebreakers, in order
- 
+- **Week 18 is not used** — NFL teams rest starters, and the results are meaningless.
+
+### Seeding tiebreakers, in order 
 1. Head-to-head record
 2. Total points for
 3. Total points against (lower is better)
-4. Coin flip by commissioner, witnessed in the league chat
-*(No divisions are used, so division record does not apply.)*
  
 ### Consolation
  
-Non-playoff teams play a consolation bracket. No money is attached. Managers are still required to set lineups — see §11.
+Non-playoff teams play a toilet bowl bracket. No money is attached.
  
 ---
  
