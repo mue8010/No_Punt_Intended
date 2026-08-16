@@ -1,4 +1,4 @@
-# No Punt Intended — 2026 Constitution
+# No Punt Intended — Constitution
  
   * **Format:**: 10-Team Superflex PPR Redraft
   * **Platform:** Sleeper
