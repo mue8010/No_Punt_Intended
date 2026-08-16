@@ -15,11 +15,10 @@
 | # | Action | Deadline |
 |---|---|---|
 | 1 | **Vote in the draft-date poll** — [strawpoll.com/3RnYXk65Qye](https://strawpoll.com/3RnYXk65Qye) | **Fri, Aug 21** |
-| 2 | **Read §3 (Superflex).** The format changed. Your draft strategy has to change with it. | Before the draft |
-| 3 | **Get superflex-specific rankings.** Last year's rankings and ADP will actively mislead you. | Before the draft |
-| 4 | **Venmo Mickey $50.** If you haven't paid, you don't draft (§4). | Before draft day |
-| 5 | **Confirm you'll be at the draft.** If you can't make it, tell Mickey *and* set an autodraft queue. | 24 hrs before draft |
-| 6 | **Set a legal lineup every week.** Every week, through Week 14 — including after you're eliminated (§11). | Weeks 1–14 |
+| 2 | **Read up on Superflex** The format changed. Your draft strategy has to change with it. | Before the draft |
+| 3 | **Venmo Mickey $50** If you haven't paid, you don't draft (§4). | Before draft day |
+| 4 | **Confirm you can make the draft** If you can't make it, set an autodraft queue. | 24 hrs before draft |
+| 5 | **Set a legal lineup every week** Every week, through Week 14 — including after you're eliminated. | Weeks 1–14 |
 
 
 ---
