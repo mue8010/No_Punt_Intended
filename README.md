@@ -123,7 +123,6 @@ Payouts are distributed within **seven days** of the championship concluding.
 - **Processing:** Wednesdays at 3:00 AM ET. One run per week.
 - Players dropped are subject to a **2-day** waiver period before becoming free agents.
 - Free agents may be added at any time on a first-come basis outside the waiver window.
-- **Eliminated teams may not make waiver claims or free agent adds during the playoffs.**
 > **Note:** Rolling priority makes waiver position a resource you manage rather than a weekly handout. Sitting at #1 for eight weeks and then spending it on a league-winning breakout is a legitimate and rewarded strategy. Critically, it also means **there is no reward for losing** — which is why this league has no anti-tanking enforcement to police.
  
 ---
