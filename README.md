@@ -20,7 +20,6 @@
 | 5 | **Set a lineup every week** Every week, through Week 14 — including after you're eliminated. | Weeks 1–14 |
 
 ---
- 
 ## 1. Changes from 2025
 Two changes are in effect this season. Announced before the draft.
  
@@ -29,9 +28,7 @@ Two changes are in effect this season. Announced before the draft.
 All other scoring settings are unchanged from 2025.
 
 ---
- 
 ## 2. Roster
- 
 | Slot | Count |
 |---|---|
 | QB | 1 |
@@ -49,9 +46,7 @@ All other scoring settings are unchanged from 2025.
  
   
 ---
- 
 ## 3. Superflex — Read This
- 
 The superflex slot may be filled by a QB, RB, WR, or TE. In practice, it will be filled by a QB nearly every week, because starting a QB there is worth roughly 6–8 points per week over the alternative.
  
 **This means up to 20 QB slots are filled weekly across the league** — against roughly 26–28 healthy NFL starters in any given week. Expect QBs to be drafted far earlier than in prior seasons. Every manager should plan to roster at least two.
@@ -59,9 +54,7 @@ The superflex slot may be filled by a QB, RB, WR, or TE. In practice, it will be
 Choosing not to start a QB in the superflex slot is a permitted strategy. It is not a competitive one. No relief will be granted to any manager who is uncompetitive as a result.
  
 ---
- 
 ## 4. Money
- 
 - **Buy-in:** $50 per team · **Total pot:** $500
 - **Deadline:** Dues are paid in full **before the draft begins.**
 - **Collection:** Venmo to the commissioner (@Mickey_Evans). A running paid/unpaid list will be posted publicly in the league chat.
@@ -79,9 +72,7 @@ Choosing not to start a QB in the superflex slot is a permitted strategy. It is 
 Payouts are distributed within **seven days** of the championship concluding.
  
 ---
- 
 ## 5. Draft
- 
 - **Date:** Pending — [draft-date poll](https://strawpoll.com/3RnYXk65Qye) closes **Fri, Aug 21.** Target: Thursday, September 3, 7:00 PM ET
 - **Format:** Snake, 16 rounds
 - **Order:** Randomized and revealed **72 hours** before the draft
@@ -104,16 +95,12 @@ Payouts are distributed within **seven days** of the championship concluding.
 | Nov 3 | NFL trade deadline |
  
 ---
- 
 ## 6. Lineups
- 
 - Lineups lock **per player at individual game kickoff.**
 - **Week 1 warning:** The season opens Wednesday, Sept. 9 (Patriots at Seahawks) with a second game Thursday, Sept. 10 in Australia (49ers vs. Rams).
 
 ---
- 
 ## 7. Waivers & Free Agency
- 
 - **System:** **Rolling waiver priority.** No FAAB.
 - **Initial order:** Set as the **reverse of draft order.** The manager who picks 1.01 starts at waiver priority #10; the manager who picks 1.10 starts at #1. This partially offsets the draft-slot lottery.
 - **How it moves:** When you win a claim, you drop to the back of the priority list and everyone below you moves up one. Priority does not reset weekly and does not track the standings. It changes only when you spend it.
@@ -123,9 +110,7 @@ Payouts are distributed within **seven days** of the championship concluding.
 > **Note:** Rolling priority makes waiver position a resource you manage rather than a weekly handout. Sitting at #1 for eight weeks and then spending it on a league-winning breakout is a legitimate and rewarded strategy. Critically, it also means **there is no reward for losing** — which is why this league has no anti-tanking enforcement to police.
  
 ---
- 
 ## 8. Trades
- 
 - **Deadline: Week 11**, as configured in Sleeper. The platform's displayed deadline is authoritative.
 - This is a *submission* deadline. A trade submitted before it will process normally after its review period, if that processing falls after the deadline.
 - **Do not cut it close:** Combined with the 2-day review period, a trade submitted in the final hours may not resolve the way either party expects.
@@ -136,7 +121,6 @@ Payouts are distributed within **seven days** of the championship concluding.
 ---
  
 ## 9. Injured Reserve
- 
 **2 IR slots** per team.
  
 **The governing principle:** IR is for players who *cannot* play. It is not for players who are not on an NFL roster, and not for players who are choosing not to play.
@@ -158,7 +142,6 @@ Allowing **Out** is deliberate. It gives attentive managers some weekend roster 
 **Activation rule:** When an IR player's designation clears, the manager has **48 hours** to activate him to an active roster spot or drop a player. Failure to comply results in the commissioner dropping the lowest-projected bench player.
  
 ---
- 
 ## 10. Playoffs
  
 - **Regular season:** Weeks 1–14 (14 games)
@@ -177,7 +160,6 @@ Allowing **Out** is deliberate. It gives attentive managers some weekend roster 
 Non-playoff teams play a toilet bowl bracket. No money is attached.
  
 ---
- 
 ## 11. Conduct
  
 **Abandoned teams.** A manager who fails to set a legal starting lineup for **multiple weeks** without notice is considered to have abandoned the team. The commissioner will set optimal-projection lineups for the remainder of the season, and the manager forfeits any winnings and their invitation to return next year.
@@ -247,7 +229,7 @@ Ten managers, matching the 10-team format.
 | 10 | Mickey *(commissioner)* | MickMouseClubHouse | :white_check_mark: | | ☐ | ☐ |
  
 ### Why these columns
- * **Dues paid** — the gate on drafting (§4). Post this column publicly in the league chat; social pressure collects money better than reminder texts do.
+ * **Dues paid** — the gate on drafting. Post this column publicly in the league chat; social pressure collects money better than reminder texts do.
  * **Draft availability** — populated from the StrawPoll. Anyone who doesn't respond by Aug 21 gets a direct message, not another group ping.
  * **Played SF before?** — Every manager in the "no" column gets the superflex explainer sent to them **individually**, not just posted to the group.
  
@@ -255,4 +237,3 @@ Ten managers, matching the 10-team format.
 - **T-7 days:** Draft date locked and posted. Superflex explainer sent individually to all first-time SF managers.
 - **T-3 days:** Draft order randomized and revealed. Dues status posted publicly.
 - **T-1 day:** Anyone unpaid gets a direct message. Anyone unconfirmed for attendance gets a direct message and is told to set an autodraft queue as a backup.
-- **Draft day:** Unpaid managers do not draft. There are no exceptions; decided in advance so it isn't a judgment call in the moment.
