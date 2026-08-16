@@ -202,7 +202,7 @@ Non-playoff teams play a toilet bowl bracket. No money is attached.
 ## Commissioner's pre-season checklist
  
 **Logistics**
-- [ ] Post 2026 draft-date StrawPoll (deadline Fri Aug 21)
+- [ X ] Post 2026 draft-date StrawPoll (deadline Fri Aug 21)
 - [ ] Lock draft date and set it in Sleeper
 - [ ] Collect all 10 buy-ins before draft day
 - [ ] Randomize draft order, reveal 72 hours prior
@@ -258,15 +258,13 @@ Ten managers, matching the 10-team format.
  
 ### Why these columns
  
-**Dues paid** — the gate on drafting (§4). Post this column publicly in the league chat; social pressure collects money better than reminder texts do.
- 
-**Draft availability** — populated from the StrawPoll. Anyone who doesn't respond by Aug 21 gets a direct message, not another group ping.
- 
-**Played SF before?** — the new-format risk. Every manager in the "no" column gets the superflex explainer sent to them **individually**, not just posted to the group. This is the cheapest possible insurance against a mid-season complaint that the format was never explained.
+ * **Dues paid** — the gate on drafting (§4). Post this column publicly in the league chat; social pressure collects money better than reminder texts do.
+ * **Draft availability** — populated from the StrawPoll. Anyone who doesn't respond by Aug 21 gets a direct message, not another group ping.
+ * **Played SF before?** — the new-format risk. Every manager in the "no" column gets the superflex explainer sent to them **individually**, not just posted to the group. This is the cheapest possible insurance against a mid-season complaint that the format was never explained.
  
 ### Draft-day escalation
  
 - **T-7 days:** Draft date locked and posted. Superflex explainer sent individually to all first-time SF managers.
 - **T-3 days:** Draft order randomized and revealed. Dues status posted publicly.
 - **T-1 day:** Anyone unpaid gets a direct message. Anyone unconfirmed for attendance gets a direct message and is told to set an autodraft queue as a backup.
-- **Draft day:** Unpaid managers do not draft (§4). No exceptions, decided in advance so it isn't a judgment call in the moment.
+- **Draft day:** Unpaid managers do not draft. There are no exceptions; decided in advance so it isn't a judgment call in the moment.
