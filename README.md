@@ -111,8 +111,8 @@ Payouts are distributed within **seven days** of the championship concluding.
 ## 6. Lineups
  
 - Lineups lock **per player at individual game kickoff.**
-- **Week 1 warning:** The season opens Wednesday, Sept. 9 (Patriots at Seahawks) with a second game Thursday, Sept. 10 in Australia (49ers vs. Rams). If you roster a player from those four teams, that player locks earlier than you expect.
-- Setting a full, legal lineup every week is a **requirement of league membership**, not a courtesy. See §11.
+- **Week 1 warning:** The season opens Wednesday, Sept. 9 (Patriots at Seahawks) with a second game Thursday, Sept. 10 in Australia (49ers vs. Rams).
+
 ---
  
 ## 7. Waivers & Free Agency
