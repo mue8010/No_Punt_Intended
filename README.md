@@ -248,16 +248,16 @@ Ten managers, matching the 10-team format.
  
 | # | Manager | Sleeper handle | Team name | Dues paid | Draft availability | Played SF before? |
 |---|---|---|---|---|---|---|
-| 1 | John | | | ☐ | | ☐ |
-| 2 | Jennifer | | | ☐ | | ☐ |
-| 3 | Colin | | | ☐ | | ☐ |
-| 4 | Kevin | | | ☐ | | ☐ |
-| 5 | Jake | | | ☐ | | ☐ |
-| 6 | Matt | | | ☐ | | ☐ |
-| 7 | Craig | | | ☐ | | ☐ |
-| 8 | Rachel | | | ☐ | | ☐ |
-| 9 | Nick | | | ☐ | | ☐ |
-| 10 | Mickey *(commissioner)* | | | ☐ | | ☐ |
+| 1 | John | johnwinter97 | | ☐ | | ☐ |
+| 2 | Jennifer | TurfToeBurrow09 | | ☐ | | ☐ |
+| 3 | Colin | ColinFriday | | ☐ | | ☐ |
+| 4 | Kevin | kevitron33 | | ☐ | | ☐ |
+| 5 | Jake | jrecoon | | ☐ | | ☐ |
+| 6 | Matt | | Funi53 | ☐ | | ☐ |
+| 7 | Craig | cabrzyski | | ☐ | | ☐ |
+| 8 | Rachel | laracheljack | | ☐ | | ☐ |
+| 9 | Nick | nickant | | ☐ | | ☐ |
+| 10 | Mickey *(commissioner)* | MickMouseClubHouse | | ☐ | | ☐ |
  
 ### Why these columns
  
