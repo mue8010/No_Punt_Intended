@@ -182,12 +182,9 @@ Non-playoff teams play a toilet bowl bracket. No money is attached.
  
 **Abandoned teams.** A manager who fails to set a legal starting lineup for **multiple weeks** without notice is considered to have abandoned the team. The commissioner will set optimal-projection lineups for the remainder of the season, and the manager forfeits any winnings and their invitation to return next year.
  
-**Tanking.** This league uses rolling waiver priority, which means losing confers no advantage; there is no draft lottery and no standings-based waiver reward. Deliberately fielding a weak lineup is therefore pointless, not prohibited. It does, however, violate the lineup obligation below.
+**Tanking.** This league uses rolling waiver priority, which means losing confers no advantage; there is no draft lottery and no standings-based waiver reward. Deliberately fielding a weak lineup is therefore pointless, not prohibited.
  
-**Lineup obligation** Every manager owes the league a competitive lineup every week through Week 14, including managers eliminated from contention. Someone else's playoff seeding depends on it.
- 
----
- 
+--- 
 ## 12. Disputes & Amendments
  
 - Disputes are raised in the league chat, not in private DMs, so the record is public.
@@ -206,10 +203,7 @@ Non-playoff teams play a toilet bowl bracket. No money is attached.
 - [ ] Post this document to the league chat **before** the draft
 - [ ] Post the superflex explainer separately — do not assume anyone read the whole doc
 
-**Completed**
-
 ---
- 
 ## Appendix A — Settings Change Log
  
 A record of what was changed, when, and why. Kept so that next offseason there is no argument about what the rule was or how it got there.
@@ -235,7 +229,6 @@ A record of what was changed, when, and why. Kept so that next offseason there i
 | Draft date | [Poll live](https://strawpoll.com/3RnYXk65Qye) — closes Fri, Aug 21 |
  
 ---
- 
 ## Appendix B — League roster & draft readiness
  
 Ten managers, matching the 10-team format.
@@ -254,13 +247,11 @@ Ten managers, matching the 10-team format.
 | 10 | Mickey *(commissioner)* | MickMouseClubHouse | :white_check_mark: | | ☐ | ☐ |
  
 ### Why these columns
- 
  * **Dues paid** — the gate on drafting (§4). Post this column publicly in the league chat; social pressure collects money better than reminder texts do.
  * **Draft availability** — populated from the StrawPoll. Anyone who doesn't respond by Aug 21 gets a direct message, not another group ping.
- * **Played SF before?** — the new-format risk. Every manager in the "no" column gets the superflex explainer sent to them **individually**, not just posted to the group. This is the cheapest possible insurance against a mid-season complaint that the format was never explained.
+ * **Played SF before?** — Every manager in the "no" column gets the superflex explainer sent to them **individually**, not just posted to the group.
  
 ### Draft-day escalation
- 
 - **T-7 days:** Draft date locked and posted. Superflex explainer sent individually to all first-time SF managers.
 - **T-3 days:** Draft order randomized and revealed. Dues status posted publicly.
 - **T-1 day:** Anyone unpaid gets a direct message. Anyone unconfirmed for attendance gets a direct message and is told to set an autodraft queue as a backup.
