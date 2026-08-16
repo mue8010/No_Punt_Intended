@@ -53,8 +53,9 @@ Choosing not to start a QB in the superflex slot is a permitted strategy. It is 
 ## 4. Money
  
 - **Buy-in:** $50 per team · **Total pot:** $500
-- **Deadline:** Dues are paid in full **before the draft begins.** A manager who has not paid does not draft. This is not negotiable and is not personal.
+- **Deadline:** Dues are paid in full **before the draft begins.**
 - **Collection:** Venmo to the commissioner. A running paid/unpaid list will be posted publicly in the league chat.
+
 ### Payout structure
  
 | Finish | Amount |
