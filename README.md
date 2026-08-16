@@ -7,7 +7,21 @@
   * **Last amended:** August 2026
  
 > Amendments are made in the **offseason only**, by majority vote. Rules are not changed mid-season under any circumstances, including for situations nobody anticipated.
+
+# 📋 START HERE — What You Need To Do
  
+**If you read nothing else in this document, read this.**
+ 
+| # | Action | Deadline |
+|---|---|---|
+| 1 | **Vote in the draft-date poll** — [strawpoll.com/3RnYXk65Qye](https://strawpoll.com/3RnYXk65Qye) | **Fri, Aug 21** |
+| 2 | **Read §3 (Superflex).** The format changed. Your draft strategy has to change with it. | Before the draft |
+| 3 | **Get superflex-specific rankings.** Last year's rankings and ADP will actively mislead you. | Before the draft |
+| 4 | **Venmo Mickey $50.** If you haven't paid, you don't draft (§4). | Before draft day |
+| 5 | **Confirm you'll be at the draft.** If you can't make it, tell Mickey *and* set an autodraft queue. | 24 hrs before draft |
+| 6 | **Set a legal lineup every week.** Every week, through Week 14 — including after you're eliminated (§11). | Weeks 1–14 |
+
+
 ---
  
 ## 1. Changes from 2025
@@ -76,8 +90,8 @@ Payouts are distributed within **seven days** of the championship concluding.
 - **Format:** Snake, 16 rounds
 - **Order:** Randomized and revealed **72 hours** before the draft
 - **Pick timer:** 120 seconds (extended from prior years due to superflex complexity)
-- **Location:** [IN PERSON / ONLINE]
-**No-show policy:** A manager who cannot attend must notify the commissioner in advance and will be set to autodraft with a pre-ranked queue. A manager who no-shows without notice is autodrafted with default rankings and has no recourse.
+- **Location:** Online
+**No-show policy:** A manager who cannot attend will be set to autodraft with a pre-ranked queue.
  
 **Hard deadline:** The draft must be complete before **Wednesday, September 9.** The 2026 season opens on a Wednesday this year, not the usual Thursday.
  
