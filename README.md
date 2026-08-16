@@ -42,7 +42,7 @@ All other scoring settings are unchanged from 2025.
  
 ## 3. Superflex — Read This
  
-The superflex slot may be filled by a QB, RB, WR, or TE. In practice it will be filled by a QB nearly every week, because starting a QB there is worth roughly 6–8 points per week over the alternative.
+The superflex slot may be filled by a QB, RB, WR, or TE. In practice, it will be filled by a QB nearly every week, because starting a QB there is worth roughly 6–8 points per week over the alternative.
  
 **This means up to 20 QB slots are filled weekly across the league** — against roughly 26–28 healthy NFL starters in any given week. Expect QBs to be drafted far earlier than in prior seasons. Every manager should plan to roster at least two.
  
