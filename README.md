@@ -193,27 +193,17 @@ Non-playoff teams play a consolation bracket. No money is attached. Managers are
  
 ## Commissioner's pre-season checklist
  
-**Settings — complete**
-- [x] Confirm DST omission is intentional
-- [x] Set Fum to -1 and Fum Lost to -1 in Sleeper scoring
-- [x] Expand bench from 6 to 7 (roster to 16)
+**Settings**
 - [x] Set IR eligibility — Out and Suspended enabled; NA and DNR/Holdout/Opt-out disabled
-- [x] Waivers set to rolling priority, Wednesday 3:00 AM ET
 - [x] Set 2-day waiver period on dropped players
-- [x] Set trade review period to 2 days
-- [x] Set trade deadline to Week 11
-**Settings — remaining**
-- [ ] Confirm veto setting — recommend vetoes disabled (§8)
-- [ ] Set playoff bracket: 6 teams, Weeks 15–17, 2 byes
-- [ ] Set draft to snake, 16 rounds, 120-second timer
-- [ ] Set initial waiver order as reverse of draft order — **must wait until draft order is randomized**
+
 **Logistics**
 - [ ] Post 2026 draft-date StrawPoll (deadline Fri Aug 21)
 - [ ] Lock draft date and set it in Sleeper
 - [ ] Collect all 10 buy-ins before draft day
 - [ ] Randomize draft order, reveal 72 hours prior
 - [ ] Post this document to the league chat **before** the draft
-- [ ] Post the superflex explainer (§3) separately — do not assume anyone read the whole doc
+- [ ] Post the superflex explainer separately — do not assume anyone read the whole doc
 ---
  
 ## Appendix A — Settings change log
