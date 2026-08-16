@@ -14,10 +14,10 @@
  
 Two changes are in effect this season. Announced before the draft.
  
-1. **Superflex added.** The former W/R/T flex is now joined by a WR/RB/TE/**QB** superflex slot. This is a fundamental format change — see §3.
+1. **Superflex added.** The former W/R/T flex is now joined by a WR/RB/TE/**QB** superflex slot. This is a major format change.
 2. **Fumble scoring modified.** Fumble: **-1**. Fumble Lost: **-1**. A lost fumble therefore costs **-2 total**; a fumble the player recovers himself costs **-1**.
 All other scoring settings are unchanged from 2025.
- 
+
 ---
  
 ## 2. Roster
