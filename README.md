@@ -225,8 +225,8 @@ Ten managers, matching the 10-team format.
 | 6 | Matt | Funi53 | :white_check_mark: | | ☐ | ☐ |
 | 7 | Craig | cabrzyski | :white_check_mark: | | ☐ | ☐ |
 | 8 | Rachel | laracheljack | :white_check_mark: | | ☐ | ☐ |
-| 9 | Nick | nickant | :white_check_mark: | | ☐ | ☐ |
-| 10 | Mickey *(commissioner)* | MickMouseClubHouse | :white_check_mark: | | ☐ | ☐ |
+| 9 | Nick | nickant | :white_check_mark: | :white_check_mark: | ☐ | ☐ |
+| 10 | Mickey *(commissioner)* | MickMouseClubHouse | :white_check_mark: | :white_check_mark: | ☐ | ☐ |
  
 ### Why these columns
  * **Dues paid** — the gate on drafting. Post this column publicly in the league chat; social pressure collects money better than reminder texts do.
