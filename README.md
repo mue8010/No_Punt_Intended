@@ -1,10 +1,10 @@
 # No Punt Intended — 2026 Constitution
  
-**Format:**: 10-Team Superflex PPR Redraft
-**Platform:** Sleeper
-**Commissioner:** Mickey Evans
-**Ratified:** August 2026
-**Last amended:** August 2026
+ **Format:**: 10-Team Superflex PPR Redraft
+ **Platform:** Sleeper
+ **Commissioner:** Mickey Evans
+ **Ratified:** August 2026
+ **Last amended:** August 2026
  
 > Amendments are made in the **offseason only**, by majority vote. Rules are not changed mid-season under any circumstances, including for situations nobody anticipated.
  
