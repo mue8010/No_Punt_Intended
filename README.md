@@ -202,7 +202,7 @@ Non-playoff teams play a toilet bowl bracket. No money is attached.
 ## Commissioner's pre-season checklist
  
 **Logistics**
-- [ X ] Post 2026 draft-date StrawPoll (deadline Fri Aug 21)
+- [X] Post 2026 draft-date StrawPoll (deadline Fri Aug 21)
 - [ ] Lock draft date and set it in Sleeper
 - [ ] Collect all 10 buy-ins before draft day
 - [ ] Randomize draft order, reveal 72 hours prior
