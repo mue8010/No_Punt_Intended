@@ -253,7 +253,7 @@ Ten managers, matching the 10-team format.
 | 3 | Colin | ColinFriday | | ☐ | | ☐ |
 | 4 | Kevin | kevitron33 | | ☐ | | ☐ |
 | 5 | Jake | jrecoon | | ☐ | | ☐ |
-| 6 | Matt | | Funi53 | ☐ | | ☐ |
+| 6 | Matt | Funi53 | | ☐ | | ☐ |
 | 7 | Craig | cabrzyski | | ☐ | | ☐ |
 | 8 | Rachel | laracheljack | | ☐ | | ☐ |
 | 9 | Nick | nickant | | ☐ | | ☐ |
