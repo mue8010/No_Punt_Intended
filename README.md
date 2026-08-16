@@ -175,11 +175,11 @@ Non-playoff teams play a consolation bracket. No money is attached. Managers are
  
 ## 11. Conduct
  
-**Abandoned teams.** A manager who fails to set a legal starting lineup for **two consecutive weeks** without notice is considered to have abandoned the team. The commissioner will set optimal-projection lineups for the remainder of the season, and the manager forfeits any winnings and their invitation to return next year.
+**Abandoned teams.** A manager who fails to set a legal starting lineup for **multiple weeks** without notice is considered to have abandoned the team. The commissioner will set optimal-projection lineups for the remainder of the season, and the manager forfeits any winnings and their invitation to return next year.
  
-**Tanking.** This league uses rolling waiver priority (§7), which means losing confers no advantage — there is no draft lottery and no standings-based waiver reward. Deliberately fielding a weak lineup is therefore pointless rather than prohibited. It does, however, violate the lineup obligation below.
+**Tanking.** This league uses rolling waiver priority, which means losing confers no advantage; there is no draft lottery and no standings-based waiver reward. Deliberately fielding a weak lineup is therefore pointless, not prohibited. It does, however, violate the lineup obligation below.
  
-**Lineup obligation.** Every manager owes the league a competitive lineup every week through Week 14, including managers eliminated from contention. Someone else's playoff seeding depends on it.
+**Lineup obligation** Every manager owes the league a competitive lineup every week through Week 14, including managers eliminated from contention. Someone else's playoff seeding depends on it.
  
 ---
  
@@ -193,10 +193,6 @@ Non-playoff teams play a consolation bracket. No money is attached. Managers are
  
 ## Commissioner's pre-season checklist
  
-**Settings**
-- [x] Set IR eligibility — Out and Suspended enabled; NA and DNR/Holdout/Opt-out disabled
-- [x] Set 2-day waiver period on dropped players
-
 **Logistics**
 - [ ] Post 2026 draft-date StrawPoll (deadline Fri Aug 21)
 - [ ] Lock draft date and set it in Sleeper
@@ -204,9 +200,12 @@ Non-playoff teams play a consolation bracket. No money is attached. Managers are
 - [ ] Randomize draft order, reveal 72 hours prior
 - [ ] Post this document to the league chat **before** the draft
 - [ ] Post the superflex explainer separately — do not assume anyone read the whole doc
+
+**Completed**
+
 ---
  
-## Appendix A — Settings change log
+## Appendix A — Settings Change Log
  
 A record of what was changed, when, and why. Kept so that next offseason there is no argument about what the rule was or how it got there.
  
@@ -218,13 +217,13 @@ A record of what was changed, when, and why. Kept so that next offseason there i
 | Aug 2026 | Roster | DST confirmed omitted — **intentional** | Long-standing league preference; kickers retained, defenses not used |
 | Aug 2026 | IR | Out ✅ · Suspended ✅ · NA ❌ · DNR/Holdout/Opt-out ❌ | IR is for players who cannot play, not players off a roster or declining to play |
 | Aug 2026 | Trades | Deadline Week 11; review period 2 days | Leaves three regular-season weeks for a trade to prove out; review window gives a cooling-off period and public record |
-| Aug 2026 | Waivers | **Rolling priority** (reverse standings considered and rejected) | Rolling removes any reward for losing, so no anti-tanking enforcement is needed. At 10 teams the wire is deep enough that struggling teams still have recourse. |
+| Aug 2026 | Waivers | **Rolling priority** (reverse standings considered and rejected) | Rolling removes any reward for losing, so no anti-tanking enforcement is needed. At 10 teams, the wire is deep enough that struggling teams still have recourse. |
  
 ### Pending confirmation
  
 | Setting | Target |
 |---|---|
-| Waivers | ~~Reverse standings~~ → **Rolling priority**, Wed 3:00 AM ET, 2-day drop period · *set* |
+| Waivers | **Rolling priority**, Wed 3:00 AM ET, 2-day drop period · *set* |
 | Veto policy | To confirm — recommend vetoes disabled |
 | Playoffs | 6 teams, Weeks 15–17, byes for seeds 1–2 |
 | Draft | Snake, 16 rounds, 120-second timer |
