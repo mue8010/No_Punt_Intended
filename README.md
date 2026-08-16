@@ -35,10 +35,9 @@ All other scoring settings are unchanged from 2025.
 | **Starters** | **9** |
 | Bench | 7 |
 | IR | 2 |
-| **Total active roster** | **17s** |
+| **Total active roster** | **17** |
  
-**This league does not use team defense/special teams (DST).** This is intentional. Kickers are used; defenses are not.
- 
+  
 ---
  
 ## 3. Superflex — Read This
