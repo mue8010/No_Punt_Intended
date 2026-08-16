@@ -31,6 +31,7 @@ All other scoring settings are unchanged from 2025.
 | FLEX (W/R/T) | 1 |
 | SUPERFLEX (W/R/T/Q) | 1 |
 | K | 1 |
+| D | 1 |
 | **Starters** | **9** |
 | Bench | 7 |
 | IR | 2 |
