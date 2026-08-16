@@ -14,16 +14,14 @@
 | # | Action | Deadline |
 |---|---|---|
 | 1 | **Vote in the draft-date poll** — [strawpoll.com/3RnYXk65Qye](https://strawpoll.com/3RnYXk65Qye) | **Fri, Aug 21** |
-| 2 | **Read up on Superflex** The format changed. Your draft strategy has to change with it. | Before the draft |
-| 3 | **Venmo Mickey $50** If you haven't paid, you don't draft (§4). | Before draft day |
-| 4 | **Confirm you can make the draft** If you can't make it, set an autodraft queue. | 24 hrs before draft |
-| 5 | **Set a legal lineup every week** Every week, through Week 14 — including after you're eliminated. | Weeks 1–14 |
-
+| 2 | **Read up on Superflex** The format changed. Your draft strategy has to change with it. | Before Draft |
+| 3 | **Venmo Mickey $50** If you haven't paid, you don't draft (§4). | Before Draft |
+| 4 | **Confirm you can make the draft** If you can't make it, set an autodraft queue. | Before Draft |
+| 5 | **Set a lineup every week** Every week, through Week 14 — including after you're eliminated. | Weeks 1–14 |
 
 ---
  
 ## 1. Changes from 2025
- 
 Two changes are in effect this season. Announced before the draft.
  
 1. **Superflex added.** The former W/R/T flex is now joined by a WR/RB/TE/**QB** superflex slot. This is a major format change.
