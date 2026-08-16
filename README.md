@@ -1,5 +1,4 @@
 # No Punt Intended — Constitution
- Test
   * **Format:**: 10-Team Superflex PPR Redraft
   * **Platform:** Sleeper
   * **Commissioner:** Mickey Evans
