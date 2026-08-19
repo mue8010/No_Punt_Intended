@@ -220,10 +220,10 @@ Ten managers, matching the 10-team format.
 | 1 | John | johnwinter97 | :white_check_mark: | :white_check_mark: | ☐ | ☐ |
 | 2 | Jennifer | TurfToeBurrow09 | :white_check_mark: | :white_check_mark: | ☐ | ☐ |
 | 3 | Colin | ColinFriday | :white_check_mark: | :white_check_mark: | ☐ | ☐ |
-| 4 | Kevin | kevitron33 | :white_check_mark: | ☐ | ☐ | ☐ |
+| 4 | Kevin | kevitron33 | :white_check_mark: | :white_check_mark: | ☐ | ☐ |
 | 5 | Jake | jrecoon | :white_check_mark: | :white_check_mark: | ☐ | ☐ |
 | 6 | Matt | Funi53 | :white_check_mark: | :white_check_mark: | ☐ | ☐ |
-| 7 | Craig | cabrzyski | :white_check_mark: | ☐ | ☐ | ☐ |
+| 7 | Craig | cabrzyski | :white_check_mark: | :white_check_mark: | ☐ | ☐ |
 | 8 | Rachel | laracheljack | :white_check_mark: | :white_check_mark: | ☐ | ☐ |
 | 9 | Nick | nickant | :white_check_mark: | :white_check_mark: | ☐ | ☐ |
 | 10 | Mickey *(commissioner)* | MickMouseClubHouse | :white_check_mark: | :white_check_mark: | ☐ | ☐ |
