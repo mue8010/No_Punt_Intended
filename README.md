@@ -179,9 +179,9 @@ Non-playoff teams play a toilet bowl bracket. No money is attached.
  
 **Logistics**
 - [X] Post 2026 draft-date StrawPoll (deadline Fri Aug 21)
-- [ ] Lock draft date and set it in Sleeper
-- [ ] Collect all 10 buy-ins before draft day
-- [ ] Randomize draft order, reveal 72 hours prior
+- [X] Lock draft date and set it in Sleeper
+- [X] Collect all 10 buy-ins before draft day
+- [X] Randomize draft order, reveal at least 72 hours prior
 - [ ] Post this document to the league chat **before** the draft
 - [ ] Post the superflex explainer separately — do not assume anyone read the whole doc
 
