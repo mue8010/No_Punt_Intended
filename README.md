@@ -195,7 +195,7 @@ A record of what was changed, when, and why. Kept so that next offseason there i
 | Aug 2026 | Roster | Added SUPERFLEX (W/R/T/Q) slot | League vote; increases QB scarcity and draft-day decision weight |
 | Aug 2026 | Scoring | Fumble -1 / Fumble Lost -1 (= -2 on a lost fumble) | Modified from prior year; penalizes ball security without stacking to -3 |
 | Aug 2026 | Roster | Bench expanded 6 → 7 (active roster 16) | Offsets the roster crunch created by superflex; managers now carry 2 QBs comfortably |
-| Aug 2026 | Roster | DST confirmed omitted — **intentional** | Long-standing league preference; kickers retained, defenses not used |
+| Aug 2026 | Roster | DST confirmed omitted — **intentional** | Long-standing league preference; kickers retained |
 | Aug 2026 | IR | Out ✅ · Suspended ✅ · NA ❌ · DNR/Holdout/Opt-out ❌ | IR is for players who cannot play, not players off a roster or declining to play |
 | Aug 2026 | Trades | Deadline Week 11; review period 2 days | Leaves three regular-season weeks for a trade to prove out; review window gives a cooling-off period and public record |
 | Aug 2026 | Waivers | **Rolling priority** (reverse standings considered and rejected) | Rolling removes any reward for losing, so no anti-tanking enforcement is needed. At 10 teams, the wire is deep enough that struggling teams still have recourse. |
