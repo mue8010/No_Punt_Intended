@@ -1,6 +1,6 @@
 # No Punt Intended — Constitution
   * **Format:**: 10-Team Superflex PPR Redraft
-  * **Platform:** Sleeper
+  * **Platform:** Sleeper ([Here](https://sleeper.com/leagues/1389751654290558976/predraft))
   * **Commissioner:** Mickey Evans
   * **Ratified:** August 2026
   * **Last amended:** August 2026
