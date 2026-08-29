@@ -75,7 +75,7 @@ Payouts are distributed within **seven days** of the championship concluding.
 ---
 ## 5. Draft
 - **Date:** Pending — [draft-date poll](https://strawpoll.com/3RnYXk65Qye) closes **Fri, Aug 21.** Target: Thursday, September 3, 7:00 PM ET
-- **Format:** Snake, 16 rounds
+- **Format:** Snake, 17 rounds
 - **Order:** Randomized and revealed **72 hours** before the draft
 - **Pick timer:** 120 seconds (extended from prior years due to superflex complexity)
 - **Location:** Online
@@ -195,7 +195,7 @@ A record of what was changed, when, and why. Kept so that next offseason there i
 |---|---|---|---|
 | Aug 2026 | Roster | Added SUPERFLEX (W/R/T/Q) slot | League vote; increases QB scarcity and draft-day decision weight |
 | Aug 2026 | Scoring | Fumble -1 / Fumble Lost -1 (= -2 on a lost fumble) | Modified from prior year; penalizes ball security without stacking to -3 |
-| Aug 2026 | Roster | Bench expanded 6 → 7 (active roster 16) | Offsets the roster crunch created by superflex; managers now carry 2 QBs comfortably |
+| Aug 2026 | Roster | Bench expanded 6 → 7 (active roster 17) | Offsets the roster crunch created by superflex; managers now carry 2 QBs comfortably |
 | Aug 2026 | IR | Out ✅ · Suspended ✅ · NA ❌ · DNR/Holdout/Opt-out ❌ | IR is for players who cannot play, not players off a roster or declining to play |
 | Aug 2026 | Trades | Deadline Week 11; review period 2 days | Leaves three regular-season weeks for a trade to prove out; review window gives a cooling-off period and public record |
 | Aug 2026 | Waivers | **Rolling priority** (reverse standings considered and rejected) | Rolling removes any reward for losing, so no anti-tanking enforcement is needed. At 10 teams, the wire is deep enough that struggling teams still have recourse. |
@@ -207,7 +207,7 @@ A record of what was changed, when, and why. Kept so that next offseason there i
 | Waivers | **Rolling priority**, Wed 3:00 AM ET, 2-day drop period · *set* |
 | Veto policy | To confirm — recommend vetoes disabled |
 | Playoffs | 6 teams, Weeks 15–17, byes for seeds 1–2 |
-| Draft | Snake, 16 rounds, 120-second timer |
+| Draft | Snake, 17 rounds, 120-second timer |
 | Draft date | [Poll live](https://strawpoll.com/3RnYXk65Qye) — closes Fri, Aug 21 |
  
 ---
